@@ -59,17 +59,19 @@ Arduino: Arduino itself doesn’t have native camera support, but there are shie
 
 #### ESP32-CAM
 
+The ESP32-CAM is a development board based on the ESP32 system-on-chip (SoC) with an integrated camera module. It's designed for IoT projects that require camera functionality along with the powerful capabilities of the ESP32 microcontroller.
 
+Programming the ESP32-CAM involves using the Arduino IDE or the ESP-IDF (Espressif IoT Development Framework) and libraries designed for camera support to access the camera module and perform various tasks like capturing images or video, streaming video over Wi-Fi, or implementing machine learning applications for image recognition.
 
-
+Typical projects using the ESP32-CAM include security cameras, video streaming, motion detection systems, and other applications requiring image processing or visual data.
 
 ## Machine Learning
 
-
+Machine learning is a subset of artificial intelligence that involves creating algorithms and models that enable computers to learn and make predictions or decisions based on data without explicit programming. The primary goal of machine learning is to develop algorithms that can automatically learn and improve from experience or data.
 
 ## TinyML
 
-TinyML refers to the field of machine learning (ML) and artificial intelligence (AI) that focuses on running models on resource-constrained devices with low power, memory, and processing capabilities, such as microcontrollers (MCUs), rather than relying on powerful servers or cloud-based solutions.
+TinyML refers to the field of machine learning and artificial intelligence that focuses on running models on resource-constrained devices with low power, memory, and processing capabilities, such as microcontrollers (MCUs), rather than relying on powerful servers or cloud-based solutions.
 
 The goal of TinyML is to deploy machine learning models directly on edge devices like sensors, wearables, IoT devices, and other embedded systems, enabling them to perform tasks locally without relying on a constant connection to the internet or sending data to remote servers. This has several advantages, including reduced latency, enhanced privacy and security, and lower power consumption.
 
@@ -77,22 +79,29 @@ Developing TinyML models involves optimizing and creating lightweight algorithms
 
 
 ## Edge Impulse
+Edge Impulse is a platform designed for developing, deploying, and managing machine learning models on edge devices, such as microcontrollers, without extensive expertise in data science or embedded systems. It simplifies the process of collecting data, training machine learning models, and deploying them to various edge devices.
+Edge Impulse is particularly valuable for IoT (Internet of Things) applications, where real-time processing and inference on low-power devices are necessary. It simplifies the entire workflow, from data acquisition to deployment, and allows developers to create and deploy machine learning models for edge computing efficiently.
 
 ### Workflow
-#### Capturing Images
+Collect images
+Label Images
+Train Model
+Export Model
+Run Model
 
-#### Labeling images
-#### Create Impulse
+
 
 FOMO
+Basics on how FOMO works
 
-Testing the Model
+
 Exporting to Arduino Library
 Loading to ESP32-CAM
 Importing the Arduino Library
 
 EloquentESP32CAM Library
 Using the ESP32-CAM to capture images
+
 
 
 
@@ -111,7 +120,7 @@ Clique [aqui]() para acessar o cronograma.
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
 |  01  | Módulo ESP32-CAM | 1 | R$ 65,00 | 1 | R$ 65,00 |
 
-|    |  |   |  |  | **R$ 215,00** |
+|    |  |   |  |  | **R$ 65,00** |
 
 # Unidades curriculares envolvidas
 > liste as unidades curriculares envolvidas com o tema escolhido
