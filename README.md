@@ -1,3 +1,7 @@
+Acesse a página da [Wiki](https://github.com/viniwestphal/PI3/wiki) para ver a documentação completa do projeto.
+
+Veja também o [resumo expandido](https://github.com/viniwestphal/PI3/blob/main/Resumo_Expandido_Vinicius.pdf).
+
 # Proposta de Tema de PI3
 Título: Câmera de Filmagem Inteligente para Contagem e Detecção de Veículos
 
@@ -109,7 +113,9 @@ Clique [aqui]() para acessar o cronograma.
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
 |  01  | Módulo ESP32-CAM | 1 | R$ 65,00 | 1 | R$ 65,00 |
-|    |  |   |  |  | **R$ 65,00** |
+|  02  | Computador com Windows 10| 1 | - | 1 | -|
+|  03  | Cabo Micro-USB | 1 | | R$ 15,00 | 1 | R$ 15,00 |
+|    |  |   |  |  | **R$ 80,00** |
 
 # Unidades curriculares envolvidas
 - Microcontroladores;
